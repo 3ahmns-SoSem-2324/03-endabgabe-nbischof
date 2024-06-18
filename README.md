@@ -8,3 +8,7 @@ Taste W = "FizzBuzz"
 Taste A = "Buzz"
 Taste S = keine Zahl
 Taste D = "Fizz"
+
+Feedback Fragebogen:
+Alle Befragten fanden das UX verständlich, jedoch nicht kreativ gestaltet. 2 von 3 Befragten würden sich ein Feedback in dem Spiel wünschen, wenn es falsch ist und was es endgültig ist. Bei keinem der Befragten ist ein Fehler oder Absturz aufgetaucht.
+
