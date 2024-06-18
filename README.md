@@ -15,6 +15,7 @@ Feedback Fragebogen:
 
 Alle Befragten fanden das UX verständlich, jedoch nicht kreativ gestaltet. 2 von 3 Befragten würden sich ein Feedback in dem Spiel wünschen, wenn es falsch ist und was es endgültig ist. Alle behaupteten, dass das Spiel nach ein paar Mal spielen langweilig wird. Bei keinem der Befragten ist ein Fehler oder Absturz aufgetaucht.
 
+```mermaid
 classDiagram
     MonoBehaviour <|-- FizzBuzz
 
@@ -55,3 +56,4 @@ classDiagram
     FizzBuzz : -void ShowResultText(string message, Color color)
     FizzBuzz : -void WaitForInput(KeyCode expectedKey, string message, Color color)
     FizzBuzz : +IEnumerator WaitForKeyPress(KeyCode expectedKey, string message, Color color)
+```
